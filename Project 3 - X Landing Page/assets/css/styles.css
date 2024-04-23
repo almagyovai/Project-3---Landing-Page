@@ -1,0 +1,17 @@
+body{
+    background-color: #dedeff;
+    color: #000;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    display: flex;
+    width: 100vh;
+}
+
+/* Header */
+
+.header{
+    display: flex;
+    flex-wrap: nowrap;
+}
